@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>HoldToTalk</string>
+    <key>CFBundleDisplayName</key>
+    <string>HoldToTalk</string>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.tom5m2.HoldToTalk</string>
+    <key>CFBundleExecutable</key>
+    <string>HoldToTalk</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>__VERSION__</string>
+    <key>CFBundleVersion</key>
+    <string>__VERSION__</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>ru</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>HoldToTalk слушает микрофон, пока вы держите клавишу, чтобы превратить речь в текст.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>HoldToTalk использует распознавание речи macOS, чтобы превратить ваш голос в текст.</string>
+</dict>
+</plist>
